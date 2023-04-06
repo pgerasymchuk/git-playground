@@ -21,4 +21,4 @@ namespace NiceProject
             Console.ReadLine();
         }
     }
-}
+}"\nHello, world1"
