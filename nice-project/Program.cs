@@ -17,7 +17,7 @@ namespace NiceProject
             
             Console.WriteLine($"Result is {result}");
             
-            // Wait for input
+            //Modified something
             Console.ReadLine();
         }
     }
