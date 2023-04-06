@@ -22,3 +22,4 @@ namespace NiceProject
         }
     }
 }"\nHello, world1"
+"Hello world2"
